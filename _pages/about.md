@@ -48,6 +48,14 @@ I am broadly interested in the application of image processing and machine learn
 
 <img src="images/ResearchInterests.png" alt="Research Interests" style="width:100%; height:auto; margin-top:15px; border-radius:6px;">
 
+# 🎓 Education
+
+- **Ph.D.**, Mechanical Engineering, Carnegie Mellon University, Pittsburgh, PA &nbsp;&nbsp;&nbsp; *May 2024*
+  - Advisor: Prof. Albert Presto
+- **M.Phil.**, Environmental Science, Policy and Management, Hong Kong University of Science and Technology &nbsp;&nbsp;&nbsp; *August 2020*
+- **M.Sc.**, Environmental Engineering and Management, Hong Kong University of Science and Technology &nbsp;&nbsp;&nbsp; *May 2017*
+- **B.Tech.**, Civil Engineering, Indian Institute of Technology Delhi, New Delhi, India &nbsp;&nbsp;&nbsp; *May 2015*
+
 # 📝 Publications
 
 <p style="margin-top:5px; margin-bottom:15px; font-size: 14px; color: #555;"><em>* represents corresponding author</em></p>
@@ -205,14 +213,6 @@ We propose a novel Temperature Look-Up (TLU) model for NO2 gas sensor outputs in
 - **Entrance Scholarship**, School of Engineering, HKUST &nbsp;&nbsp;&nbsp; 2016
 - **Ministry of Human Resources Development Scholarship**, IIT Delhi (tuition for 4 years of undergraduate studies) &nbsp;&nbsp;&nbsp; 2011–2015
 
-# 🎓 Education
-
-- **Ph.D.**, Mechanical Engineering, Carnegie Mellon University, Pittsburgh, PA &nbsp;&nbsp;&nbsp; *May 2024*
-  - Advisor: Prof. Albert Presto
-- **M.Phil.**, Environmental Science, Policy and Management, Hong Kong University of Science and Technology &nbsp;&nbsp;&nbsp; *August 2020*
-- **M.Sc.**, Environmental Engineering and Management, Hong Kong University of Science and Technology &nbsp;&nbsp;&nbsp; *May 2017*
-- **B.Tech.**, Civil Engineering, Indian Institute of Technology Delhi, New Delhi, India &nbsp;&nbsp;&nbsp; *May 2015*
-
 # 🎤 Invited Talks
 
 - **GRAPHS Manuscript Series**, Columbia University, NY &nbsp;&nbsp;&nbsp; *December 2025*
@@ -253,18 +253,20 @@ Physics I & II, Calculus, Differential Equations.
 **Student Mentoring**
 
 *Undergraduate Research Mentor*
-- Polina Goldberg, Data Science, Columbia University &nbsp;&nbsp;&nbsp; Summer 2025–Present
-- Elsevar Zeynalov, Data Science, Columbia University &nbsp;&nbsp;&nbsp; Summer 2025
-- Ria Sharma, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2023
-- Jordan Petzold, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2023
-- Jocelyn Kiefel, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2023
-- Shaborn Leggette, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2023
-- Max Labovitz, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2022
+- Columbia University (2), CMU (5)
+#- Polina Goldberg, Data Science, Columbia University &nbsp;&nbsp;&nbsp; Summer 2025–Present
+#- Elsevar Zeynalov, Data Science, Columbia University &nbsp;&nbsp;&nbsp; Summer 2025
+#- Ria Sharma, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2023
+#- Jordan Petzold, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2023
+#- Jocelyn Kiefel, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2023
+#- Shaborn Leggette, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2023
+#- Max Labovitz, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2022
 
 *Graduate Research Mentor*
-- Sizhou Su, Master's student, Columbia University &nbsp;&nbsp;&nbsp; Summer 2025–Present
-- Aziz Bhetasiwala, Master's student, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Fall 2023–Summer 2024
-- Ria Sharma, Master's student, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Fall 2023
+- Columbia University (1), CMU (2)
+#- Sizhou Su, Master's student, Columbia University &nbsp;&nbsp;&nbsp; Summer 2025–Present
+#- Aziz Bhetasiwala, Master's student, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Fall 2023–Summer 2024
+#- Ria Sharma, Master's student, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Fall 2023
 
 # 🤝 Service
 
@@ -282,7 +284,13 @@ Physics I & II, Calculus, Differential Equations.
 
 **Core Committee Member**, CAPS Laboratory, Carnegie Mellon University &nbsp;&nbsp;&nbsp; *2021–2022*
 
-**Reviewer** — Geoscientific Model Development, Environmental Science & Technology Air, Environment International, Scientific Reports, Environmental Science and Pollution Research &nbsp;&nbsp;&nbsp; *2023–Present*
+**Reviewer** &nbsp;&nbsp;&nbsp; *2023–Present*
+- Geoscientific Model Development
+- Environmental Science & Technology Air
+- Environment International
+- Scientific Reports
+- Environmental Science and Pollution Research
+  
 # 📸 Events
 
 <p style="margin-top: 10px;">
