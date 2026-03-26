@@ -64,7 +64,7 @@ I am broadly interested in the application of image processing and machine learn
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dataset · Zenodo</div><img src='images/Gridded_PM25_Ghana_2025.png' alt="Gridded PM2.5 Ghana" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*[Dataset] Gridded Daily PM2.5 at 1 km x 1 km Resolution from 2005-2024: Ghana*
+*[Dataset] Gridded Daily PM<sub>2.5</sub> at 1 km x 1 km Resolution from 2005-2024: Ghana*
 
 **Abhishek Anand\***, Joe Amooli, Daniel Westervelt
 
@@ -114,7 +114,7 @@ Peng Wei, Song Hao\*, Yuan Shi\*, **Abhishek Anand**, Ya Wang, Mengyuan Chu, Zhi
 
 [**Paper**](https://www.sciencedirect.com/science/article/pii/S0160412024005786)
 
-We built a deep learning model to predict fine-scale NOx from traffic at street-level, combining data from mobile air quality sensors on buses with crowd-sourced Google real-time traffic status.
+We built a deep learning model to predict fine-scale NO<sub>X</sub> from traffic at street-level, combining data from mobile air quality sensors on buses with crowd-sourced Google real-time traffic status.
 
 </div>
 </div>
