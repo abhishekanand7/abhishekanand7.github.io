@@ -1,6 +1,6 @@
 # Site Settings
 title                    : "Abhishek Anand"
-description              : "Postdoctoral Research Scientist at Columbia University"
+description              : "<i>Postdoc Researcher at Columbia University</i>"
 repository               : "abhishekanand7/website-v2"
 baseurl                  : "/website-v2"
 google_scholar_stats_use_cdn : true
@@ -23,7 +23,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=RWpu5C0AAAAJ&hl=en"
   email            : "abhishek.anand@columbia.edu"
   researchgate     :
-  uri              : "https://people.climate.columbia.edu/users/profile/abhishek-anand"
+  #uri              : "https://people.climate.columbia.edu/users/profile/abhishek-anand"
   bitbucket        :
   codepen          :
   dribbble         :
