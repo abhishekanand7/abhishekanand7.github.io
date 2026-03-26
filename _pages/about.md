@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Postdoctoral Research Scientist in the [Westervelt Aerosol Group](https://aerosol.ldeo.columbia.edu) at the Lamont-Doherty Earth Observatory, Columbia University. My research focuses on building machine/deep learning models to estimate air pollutants using satellite-derived features and weather reanalysis parameters, validated with ground-level sensors across sub-Saharan Africa. I further leverage these datasets to investigate health impacts of air pollution to support effective local policymaking.
 
-I earned my Ph.D. in Mechanical Engineering from Carnegie Mellon University, where I worked with [Prof. Albert Presto](https://www.meche.engineering.cmu.edu/directory/bios/presto-albert.html) on developing low-cost techniques to measure atmospheric particulate matter and identifying emission sources from low-cost sensor networks. I also built a deep learning forecast model for PM2.5 over Pittsburgh using features from NASA's GEOS-CF model and a spatially deployed low-cost sensor network.
+I earned my Ph.D. in Mechanical Engineering from Carnegie Mellon University, where I worked with [Prof. Albert Presto](https://www.meche.engineering.cmu.edu/directory/bios/presto-albert.html) on developing low-cost techniques to measure atmospheric particulate matter and identifying emission sources from low-cost sensor networks. I also built a deep learning forecast model for PM<sub>2.5</sub> over Pittsburgh using features from NASA's GEOS-CF model and a spatially deployed low-cost sensor network.
 
 I hold an M.Phil. and M.Sc. from the Hong Kong University of Science and Technology and a B.Tech. in Civil Engineering from the Indian Institute of Technology Delhi.
 
@@ -70,7 +70,7 @@ I am broadly interested in the application of image processing and machine learn
 
 [**Dataset (Zenodo)**](https://doi.org/10.5281/zenodo.17920004) \| [**GRASP Project**](https://grasp.ldeo.columbia.edu)
 
-This dataset provides daily estimates of surface PM2.5 concentrations across Ghana at 1 km x 1 km resolution, integrating satellite observations, ground-level monitors, and machine learning over 20 years (2005-2024).
+This dataset provides daily estimates of surface PM<sub>2.5</sub> concentrations across Ghana at 1 km x 1 km resolution, integrating satellite observations, ground-level monitors, and machine learning over 20 years (2005-2024).
 
 </div>
 </div>
@@ -84,7 +84,7 @@ Polina M. Goldberg, **Abhishek Anand**, Daniel Westervelt\*
 
 [**Preprint**](https://www.researchsquare.com/article/rs-8158429/v1)
 
-Using a difference-in-differences analysis, we assess the short-term impact of NYC's Central Business District Tolling Program (CBDTP) on PM2.5 and NO2 across all five boroughs using NYCCAS monitors and satellite observations.
+Using a difference-in-differences analysis, we assess the short-term impact of NYC's Central Business District Tolling Program (CBDTP) on PM<sub>2.5</sub> and NO<sub>2</sub> across all five boroughs using NYCCAS monitors and satellite observations.
 
 </div>
 </div>
@@ -92,13 +92,13 @@ Using a difference-in-differences analysis, we assess the short-term impact of N
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES&T Air · 2025</div><img src='images/2025_GriddedPM_WestAfrica.png' alt="PM2.5 West Africa" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*Twenty Years of High Spatiotemporal Resolution Estimates of Daily PM2.5 in West Africa Using Satellite Data, Surface Monitors, and Machine Learning*
+*Twenty Years of High Spatiotemporal Resolution Estimates of Daily PM<sub>2.5</sub> in West Africa Using Satellite Data, Surface Monitors, and Machine Learning*
 
 Daniel Westervelt\*, Joe Adabouk Amooli, **Abhishek Anand**
 
 [**Paper**](https://pubs.acs.org/doi/10.1021/acsestair.4c00366)
 
-We develop machine/deep learning models using satellite-derived and weather reanalysis parameters to estimate daily PM2.5 for Ghana at 1 km resolution over 2005-2024, validated against an extensive surface monitoring network.
+We develop machine/deep learning models using satellite-derived and weather reanalysis parameters to estimate daily PM<sub>2.5</sub> for Ghana at 1 km resolution over 2005-2024, validated against an extensive surface monitoring network.
 
 </div>
 </div>
@@ -202,34 +202,34 @@ We propose a novel Temperature Look-Up (TLU) model for NO2 gas sensor outputs in
 - **Philip and Marsha Dowd Fellowship**, Carnegie Mellon University (~$100,000 in tuition and stipend) &nbsp;&nbsp;&nbsp; (2022–2023)
 - **Milton Shaw Ph.D. Research Award**, Department of Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; (2022)
 <!-- - **Postgraduate Studentship** for M.Phil. study, HKUST &nbsp;&nbsp;&nbsp; (2018–2020) -->
-- **HKUST Awardee**, 8th Global Young Scientists Summit, National Research Foundation, Prime Minister's Office, Singapore &nbsp;&nbsp;&nbsp; 2020
-- **University Grants Committee Research Travel Grant**, HKUST &nbsp;&nbsp;&nbsp; 2019
-- **Division of Environment and Sustainability Research Travel Grant**, HKUST &nbsp;&nbsp;&nbsp; 2019
-- **Hong Kong Government Innovation and Technology Fund Internship Award** &nbsp;&nbsp;&nbsp; 2018
-- **M.Sc. Excellent Student Scholarship**, School of Engineering, HKUST &nbsp;&nbsp;&nbsp; 2017
-- **Champion Award**, BESTo Camp, HKUST Entrepreneurship Center &nbsp;&nbsp;&nbsp; 2017
-- **Entrance Scholarship**, School of Engineering, HKUST &nbsp;&nbsp;&nbsp; 2016
-- **Ministry of Human Resources Development Scholarship**, IIT Delhi (tuition for 4 years of undergraduate studies) &nbsp;&nbsp;&nbsp; 2011–2015
+- **HKUST Awardee**, 8th Global Young Scientists Summit, National Research Foundation, Prime Minister's Office, Singapore &nbsp;&nbsp;&nbsp; (2020)
+- **University Grants Committee Research Travel Grant**, HKUST &nbsp;&nbsp;&nbsp; (2019)
+- **Division of Environment and Sustainability Research Travel Grant**, HKUST &nbsp;&nbsp;&nbsp; (2019)
+- **Hong Kong Government Innovation and Technology Fund Internship Award** &nbsp;&nbsp;&nbsp; (2018)
+- **M.Sc. Excellent Student Scholarship**, School of Engineering, HKUST &nbsp;&nbsp;&nbsp; (2017)
+- **Champion Award**, BESTo Camp, HKUST Entrepreneurship Center &nbsp;&nbsp;&nbsp; (2017)
+- **Entrance Scholarship**, School of Engineering, HKUST &nbsp;&nbsp;&nbsp; (2016)
+- **Ministry of Human Resources Development Scholarship**, IIT Delhi (tuition for 4 years of undergraduate studies) &nbsp;&nbsp;&nbsp; (2011–2015)
 
 # 🎤 Invited Talks
 
-- **GRAPHS Manuscript Series**, Columbia University, NY &nbsp;&nbsp;&nbsp; *December 2025*
-  Mapping Two Decades of Daily High-Resolution PM₂.₅ Data in Ghana Using Machine Learning.
+- **GRAPHS Manuscript Series**, Columbia University, NY &nbsp;&nbsp;&nbsp; (December 2025)
+  - Mapping Two Decades of Daily High-Resolution PM<sub>2.5</sub> Data in Ghana Using Machine Learning.
 
-- **Geochemistry Division**, Columbia University, NY &nbsp;&nbsp;&nbsp; *October 2025*
-  Atmospheric Black Carbon Measurements by Applying Image Processing Method on Filter Tapes.
+- **Geochemistry Division**, Columbia University, NY &nbsp;&nbsp;&nbsp; (October 2025)
+  - Atmospheric Black Carbon Measurements by Applying Image Processing Method on Filter Tapes.
 
-- **Department of Civil Engineering**, University of Illinois Urbana-Champaign, IL &nbsp;&nbsp;&nbsp; *October 2025*
-  Leveraging Satellite Measurements, Surface Monitors, and Machine Learning for Generating 20 Years of High-Resolution Daily PM₂.₅ in Ghana.
+- **Department of Civil Engineering**, University of Illinois Urbana-Champaign, IL &nbsp;&nbsp;&nbsp; (October 2025)
+  - Leveraging Satellite Measurements, Surface Monitors, and Machine Learning for Generating 20 Years of High-Resolution Daily PM<sub>2.5</sub> in Ghana.
 
-- **SPARTAN & CAMS-Net Joint Meeting**, Washington University in St. Louis, MO &nbsp;&nbsp;&nbsp; *June 2025*
-  Two Decades of High-Resolution Daily PM₂.₅ in Ghana: A Machine Learning Approach.
+- **SPARTAN & CAMS-Net Joint Meeting**, Washington University in St. Louis, MO &nbsp;&nbsp;&nbsp; (June 2025)
+  - Two Decades of High-Resolution Daily PM<sub>2.5</sub> in Ghana: A Machine Learning Approach.
 
-- **Lamont 75th Mini-Symposium: The Data Driven Discovery**, Columbia University, NY &nbsp;&nbsp;&nbsp; *May 2025*
-  Leveraging Satellite Measurements to Build Machine Learning Models for Estimating 20 Years of High-Resolution Gridded PM₂.₅ for Ghana.
+- **Lamont 75th Mini-Symposium: The Data Driven Discovery**, Columbia University, NY &nbsp;&nbsp;&nbsp; (May 2025)
+  - Leveraging Satellite Measurements to Build Machine Learning Models for Estimating 20 Years of High-Resolution Gridded PM<sub>2.5</sub> for Ghana.
 
-- **Air Sensors International Conference**, Riverside, CA &nbsp;&nbsp;&nbsp; *October 2024*
-  Low-cost methods for measurement of PM₂.₅ composition at African cities by exploiting existing Beta Attenuation Monitors.
+- **Air Sensors International Conference**, Riverside, CA &nbsp;&nbsp;&nbsp; (May 2024)
+  - Low-cost methods for measurement of PM<sub>2.5</sub> composition at African cities by exploiting existing Beta Attenuation Monitors.
 
 # 🏫 Teaching
 
@@ -246,7 +246,7 @@ We propose a novel Temperature Look-Up (TLU) model for NO2 gas sensor outputs in
    - Carbon Emission Trading – HKUST &nbsp;&nbsp;&nbsp; Spring (2019)
 
 **Peer Tutor for Undergraduate Students**, CMU &nbsp;&nbsp;&nbsp; (2022–2023)
-Physics I & II, Calculus, Differential Equations.
+ - Physics I & II, Calculus, Differential Equations.
 
 **Student Mentoring**
 
@@ -254,13 +254,13 @@ Physics I & II, Calculus, Differential Equations.
 - Columbia University: 2 Students (2025 - Present)
 - CMU: 5 Students (2022 - 2024)
 <!--
-- Polina Goldberg, Data Science, Columbia University &nbsp;&nbsp;&nbsp; Summer 2025–Present
-- Elsevar Zeynalov, Data Science, Columbia University &nbsp;&nbsp;&nbsp; Summer 2025
-- Ria Sharma, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2023
-- Jordan Petzold, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2023
-- Jocelyn Kiefel, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2023
-- Shaborn Leggette, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2023
-- Max Labovitz, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2022
+#- Polina Goldberg, Data Science, Columbia University &nbsp;&nbsp;&nbsp; Summer 2025–Present
+#- Elsevar Zeynalov, Data Science, Columbia University &nbsp;&nbsp;&nbsp; Summer 2025
+#- Ria Sharma, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2023
+#- Jordan Petzold, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2023
+#- Jocelyn Kiefel, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2023
+#- Shaborn Leggette, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2023
+#- Max Labovitz, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2022
 -->
 
 *Graduate Research Mentor*
@@ -288,7 +288,7 @@ Physics I & II, Calculus, Differential Equations.
 
 - **Core Committee Member**, CAPS Laboratory, Carnegie Mellon University &nbsp;&nbsp;&nbsp; *2021–2022*
 
-- **Reviewer** &nbsp;&nbsp;&nbsp; *2023–Present*
+- **Journal Peer-Reviewer** &nbsp;&nbsp;&nbsp; (2023–Present)
    - Geoscientific Model Development
    - Environmental Science & Technology Air
    - Environment International
