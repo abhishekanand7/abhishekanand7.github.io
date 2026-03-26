@@ -44,7 +44,7 @@ I hold an M.Phil. and M.Sc. from the Hong Kong University of Science and Technol
 
 # 🔬 Research Interests
 
-My research interest lies in the application of image processing and machine learning for building geospatial models using satellite remote sensing and reanalysis datasets. I am further interested in leveraging these datasets to assess health impacts and associated sociaecomic disparities in air pollution exposure.
+My research interest lies in the application of image processing and machine learning for building geospatial models to derive air pollutant concentrations using satellite remote sensing and reanalysis datasets. I am further interested in leveraging these datasets to assess health impacts and associated socioeconomic disparities in air pollution exposure.
 
 <!-- <img src="images/ResearchInterests.png" alt="Research Interests" style="width:100%; height:auto; margin-top:15px; border-radius:6px;"> -->
 
