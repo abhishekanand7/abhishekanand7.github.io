@@ -35,14 +35,15 @@ I hold an M.Phil. and M.Sc. from the Hong Kong University of Science and Technol
 <div class="scrollable">
   <ul>
     <li><strong>2026.03</strong>: Invited to serve on the AGU Atmospheric Science Section Early Career Committee.</li>
-    <li><strong>2026.02</strong>: Selected for Jane Warren Award to present in the <strong>Health Effects Institute</strong>strong> Annual Conference, 2026.</li>
+    <li><strong>2026.02</strong>: Selected for Jane Warren Award to present in the <strong>Health Effects Institute</strong> Annual Conference, 2026.</li>
     <li><strong>2026.01</strong>: Visited Ghana to conduct in-person workshops on geospatial datasets and satellite-remote sensing at Ghana EPA and Kintampo Health Research Center.</li>
     <li><strong>2025.12</strong>: Presented research in the NASA Health and Air Quality (HAQ) session at <strong>AGU 2025</strong> in New Orleans, Louisiana.</li>
     <li><strong>2025.06</strong>: Presented at the <a href="https://www.spartan-network.org/2025">CAMS-Net and SPARTAN meeting</a> hosted at Washington University in St. Louis.</li>
     <li><strong>2025.05</strong>: Attended the <a href="https://cimes.princeton.edu/princeton-university-geophysical-fluid-dynamics-laboratory-global-km-scale-hackathon-0">WCRP Global km-Scale Hackathon</a> at GFDL, Princeton University.</li>
     <li><strong>2025.01</strong>: Team El Ninos won <strong>1st place</strong> at the LEAP Hackathon "Harnessing Machine Learning to Improve Subseasonal-to-Seasonal Climate Predictions" at Columbia University.</li>
-    <li><strong>2024.04</strong>: Defended his Ph.D. Thesis.</li>
+    <li><strong>2024.04</strong>: Defended his Ph.D. Thesis at CMU.</li>
     <li><strong>2022.08</strong>: Awarded the prestigious <a href="https://engineering.cmu.edu/news-events/news/2023/04/12-dowd-fellows.html">Dowd Fellowship</a> by the School of Engineering at Carnegie Mellon University.</li>
+    <li><strong>2022.03</strong>: Milton Shaw Ph.D. Research Award, Department of Mechanical Engineering, CMU.</li>
   </ul>
 </div>
 
