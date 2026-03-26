@@ -12,13 +12,13 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Awards"
+  - title: "Honors & Awards"
     url: "/#-honors-and-awards"
 
   - title: "Education"
     url: "/#-education"
 
-  - title: "Talks"
+  - title: "Invited Talks"
     url: "/#-invited-talks"
 
   - title: "Teaching"
@@ -26,6 +26,3 @@ main:
 
   - title: "Service"
     url: "/#-service"
-
-  - title: "Events"
-    url: "/#-events"
