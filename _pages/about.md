@@ -218,10 +218,16 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
 
 # 🎤 Invited Talks
 
+- **Kintampo Health Research Center**, Kintampo, Ghana (January 2026)
+  - Gridded Africa Surface Pollution Dataset (GRASP): Two Decades of Satellite-Derived Daily High-Resolution PM<sub>2.5</sub> Measurements in Ghana.
+
+- **Environmental Protection Authority**, Accra, Ghana (January 2026)
+  - Gridded Africa Surface Pollution Dataset (GRASP): Two Decades of Satellite-Derived Daily High-Resolution PM<sub>2.5</sub> Measurements in Ghana.
+
 - **GRAPHS Manuscript Series**, Columbia University, NY (December 2025)
   - Mapping Two Decades of Daily High-Resolution PM<sub>2.5</sub> Data in Ghana Using Machine Learning.
 
-- **Geochemistry Division**, Columbia University, NY (October 2025)
+- **Solutions for Pollution Seminar, Geochemistry Division**, Columbia University, NY (October 2025)
   - Atmospheric Black Carbon Measurements by Applying Image Processing Method on Filter Tapes.
 
 - **Department of Civil Engineering**, University of Illinois Urbana-Champaign, IL (October 2025)
@@ -238,8 +244,11 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
 
 # 🏫 Teaching
 
+- **Guest Lecture — Computing and Research Methods for Climate Data Science**, Columbia University (February 2026)
+   - Introduced major climate datasets, tools to work with them, data structures, and research applications.
+
 - **Guest Lecture — Air Pollution & Measuring the Environment**, Columbia University (November 2025)
-   - Introduced principles of remote sensing and tools for monitoring air quality, including accessing, visualizing, and interpreting satellite-derived pollution datasets from NASA and ESA.
+   - Delivered lecture on remote sensing principles and practical applications of NASA and ESA satellite-derived air pollution datasets.
 
 - **Future Faculty Career Program**, Carnegie Mellon University (2020–2024)
    - Designed to help early career researchers develop their teaching skills for a faculty career.
