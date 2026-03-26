@@ -287,6 +287,8 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
 
 # 🤝 Service
 
+- **Member**, AGU Atmospheric Science Section Early Career Committee (2026-2027)
+
 - **Session Chair**, AAAR: Advancing Aerosol Science Through Data Analysis (October 2025)
 
 - **Panel Discussion**, Spartan and CAMS-Net Meeting: Low-Cost Monitoring of Atmospheric Particulate Matter (June 2025)
