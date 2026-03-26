@@ -34,6 +34,8 @@ I hold an M.Phil. and M.Sc. from the Hong Kong University of Science and Technol
 
 <div class="scrollable">
   <ul>
+    <li><strong>2026.03</strong>: Invited to serve on the AGU Atmospheric Science Section Early Career Committee.</li>
+    <li><strong>2026.01</strong>: Visited Ghana to conduct in-person workshops on geospatial datasets and satellite-remote sensing at Ghana EPA and Kintampo Health Research Center.</li>
     <li><strong>2025.12</strong>: Presented research in the NASA Health and Air Quality (HAQ) session at <strong>AGU 2025</strong> in New Orleans, Louisiana.</li>
     <li><strong>2025.06</strong>: Presented at the <a href="https://www.spartan-network.org/2025">CAMS-Net and SPARTAN meeting</a> hosted at Washington University in St. Louis.</li>
     <li><strong>2025.05</strong>: Attended the <a href="https://cimes.princeton.edu/princeton-university-geophysical-fluid-dynamics-laboratory-global-km-scale-hackathon-0">WCRP Global km-Scale Hackathon</a> at GFDL, Princeton University.</li>
