@@ -50,11 +50,10 @@ I am broadly interested in the application of image processing and machine learn
 
 # 🎓 Education
 
-- **Ph.D.**, Mechanical Engineering, Carnegie Mellon University, Pittsburgh, PA &nbsp;&nbsp;&nbsp; *May 2024*
-  - Advisor: Prof. Albert Presto
-- **M.Phil.**, Environmental Science, Policy and Management, Hong Kong University of Science and Technology &nbsp;&nbsp;&nbsp; *August 2020*
-- **M.Sc.**, Environmental Engineering and Management, Hong Kong University of Science and Technology &nbsp;&nbsp;&nbsp; *May 2017*
-- **B.Tech.**, Civil Engineering, Indian Institute of Technology Delhi, New Delhi, India &nbsp;&nbsp;&nbsp; *May 2015*
+- **Ph.D.**, Mechanical Engineering, Carnegie Mellon University, Pittsburgh, USA &nbsp;&nbsp;&nbsp; (2024)
+- **M.Phil.**, Environmental Science, Policy and Management, Hong Kong University of Science and Technology &nbsp;&nbsp;&nbsp; (2020)
+- **M.Sc.**, Environmental Engineering and Management, Hong Kong University of Science and Technology &nbsp;&nbsp;&nbsp; (2017)
+- **B.Tech.**, Civil Engineering, Indian Institute of Technology Delhi, New Delhi, India &nbsp;&nbsp;&nbsp; (2015)
 
 # 📝 Publications
 
@@ -198,12 +197,11 @@ We propose a novel Temperature Look-Up (TLU) model for NO2 gas sensor outputs in
 
 # 🏆 Honors and Awards
 
-- **Winner**, Hackathon on Applying Machine Learning for Subseasonal-to-Seasonal Climate Predictions, LEAP, Columbia University &nbsp;&nbsp;&nbsp; 2025
-- **Travel Grant**, American Association for Aerosol Research (AAAR) Conference &nbsp;&nbsp;&nbsp; 2023
-- **Philip and Marsha Dowd Fellowship**, Carnegie Mellon University (~$100,000 in tuition and stipend) &nbsp;&nbsp;&nbsp; 2022–2023
-- **Milton Shaw Ph.D. Research Award**, Department of Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; 2022
-- **Accepted Proposal**: Climate School Summer Internship Funding Program, Columbia University ($6,000) &nbsp;&nbsp;&nbsp; 2025
-- **Postgraduate Studentship** for M.Phil. study, HKUST &nbsp;&nbsp;&nbsp; 2018–2020
+- **Winner**, Hackathon on Applying Machine Learning for Subseasonal-to-Seasonal Climate Predictions, LEAP, Columbia University &nbsp;&nbsp;&nbsp; (2025)
+- **Travel Grant**, American Association for Aerosol Research (AAAR) Conference &nbsp;&nbsp;&nbsp; (2023)
+- **Philip and Marsha Dowd Fellowship**, Carnegie Mellon University (~$100,000 in tuition and stipend) &nbsp;&nbsp;&nbsp; (2022–2023)
+- **Milton Shaw Ph.D. Research Award**, Department of Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; (2022)
+<!-- - **Postgraduate Studentship** for M.Phil. study, HKUST &nbsp;&nbsp;&nbsp; (2018–2020) -->
 - **HKUST Awardee**, 8th Global Young Scientists Summit, National Research Foundation, Prime Minister's Office, Singapore &nbsp;&nbsp;&nbsp; 2020
 - **University Grants Committee Research Travel Grant**, HKUST &nbsp;&nbsp;&nbsp; 2019
 - **Division of Environment and Sustainability Research Travel Grant**, HKUST &nbsp;&nbsp;&nbsp; 2019
@@ -235,61 +233,67 @@ We propose a novel Temperature Look-Up (TLU) model for NO2 gas sensor outputs in
 
 # 🏫 Teaching
 
-**Guest Lecture — Air Pollution & Measuring the Environment**, Columbia University &nbsp;&nbsp;&nbsp; *November 2025*
-Introduced principles of remote sensing and tools for monitoring air quality, including accessing, visualizing, and interpreting satellite-derived pollution datasets from NASA and ESA.
+- **Guest Lecture — Air Pollution & Measuring the Environment**, Columbia University &nbsp;&nbsp;&nbsp; (November 2025)
+   - Introduced principles of remote sensing and tools for monitoring air quality, including accessing, visualizing, and interpreting satellite-derived pollution datasets from NASA and ESA.
 
-**Future Faculty Career Program**, Carnegie Mellon University &nbsp;&nbsp;&nbsp; *2020–2024*
-Designed to help early career researchers develop their teaching skills for a faculty career.
+- **Future Faculty Career Program**, Carnegie Mellon University &nbsp;&nbsp;&nbsp; (2020–2024)
+   - Designed to help early career researchers develop their teaching skills for a faculty career.
 
-**Teaching Assistant**, Carnegie Mellon University & HKUST
-- Renewable Energy Engineering – CMU &nbsp;&nbsp;&nbsp; Spring 2023
-- Fluid Mechanics – CMU &nbsp;&nbsp;&nbsp; Spring 2022
-- GIS for Environmental Professionals – HKUST &nbsp;&nbsp;&nbsp; Fall 2019
-- Carbon Emission Trading – HKUST &nbsp;&nbsp;&nbsp; Spring 2019
+- **Teaching Assistant**, Carnegie Mellon University & HKUST
+   - Renewable Energy Engineering – CMU &nbsp;&nbsp;&nbsp; (Spring 2023)
+   - Fluid Mechanics – CMU &nbsp;&nbsp;&nbsp; (Spring 2022)
+   - GIS for Environmental Professionals – HKUST &nbsp;&nbsp;&nbsp; (Fall 2019)
+   - Carbon Emission Trading – HKUST &nbsp;&nbsp;&nbsp; Spring (2019)
 
-**Peer Tutor for Undergraduate Students**, CMU &nbsp;&nbsp;&nbsp; *2022–2023*
+**Peer Tutor for Undergraduate Students**, CMU &nbsp;&nbsp;&nbsp; (2022–2023)
 Physics I & II, Calculus, Differential Equations.
 
 **Student Mentoring**
 
 *Undergraduate Research Mentor*
-- Columbia University (2), CMU (5)
-#- Polina Goldberg, Data Science, Columbia University &nbsp;&nbsp;&nbsp; Summer 2025–Present
-#- Elsevar Zeynalov, Data Science, Columbia University &nbsp;&nbsp;&nbsp; Summer 2025
-#- Ria Sharma, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2023
-#- Jordan Petzold, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2023
-#- Jocelyn Kiefel, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2023
-#- Shaborn Leggette, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2023
-#- Max Labovitz, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2022
+- Columbia University: 2 Students (2025 - Present)
+- CMU: 5 Students (2022 - 2024)
+<!--
+- Polina Goldberg, Data Science, Columbia University &nbsp;&nbsp;&nbsp; Summer 2025–Present
+- Elsevar Zeynalov, Data Science, Columbia University &nbsp;&nbsp;&nbsp; Summer 2025
+- Ria Sharma, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2023
+- Jordan Petzold, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2023
+- Jocelyn Kiefel, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2023
+- Shaborn Leggette, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2023
+- Max Labovitz, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Summer 2022
+-->
 
 *Graduate Research Mentor*
-- Columbia University (1), CMU (2)
+- Columbia University: 1 Student (2025)
+- CMU: 2 Students (2023 - Present)
+<!--
 #- Sizhou Su, Master's student, Columbia University &nbsp;&nbsp;&nbsp; Summer 2025–Present
 #- Aziz Bhetasiwala, Master's student, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Fall 2023–Summer 2024
 #- Ria Sharma, Master's student, Mechanical Engineering, CMU &nbsp;&nbsp;&nbsp; Fall 2023
+-->
 
 # 🤝 Service
 
-**Session Chair**, AAAR: Advancing Aerosol Science Through Data Analysis &nbsp;&nbsp;&nbsp; *October 2025*
+- **Session Chair**, AAAR: Advancing Aerosol Science Through Data Analysis &nbsp;&nbsp;&nbsp; *October 2025*
 
-**Panel Discussion**, Spartan and CAMS-Net Meeting: Low-Cost Monitoring of Atmospheric Particulate Matter &nbsp;&nbsp;&nbsp; *June 2025*
+- **Panel Discussion**, Spartan and CAMS-Net Meeting: Low-Cost Monitoring of Atmospheric Particulate Matter &nbsp;&nbsp;&nbsp; *June 2025*
 
-**Coordinator**, Ocean and Climate Physics Department Seminar, Columbia University &nbsp;&nbsp;&nbsp; *2025–2026*
+- **Coordinator**, Ocean and Climate Physics Department Seminar, Columbia University &nbsp;&nbsp;&nbsp; *2025–2026*
 
-**Core Representative**, Postdoc/ARS Hardship Support Fund, Columbia University &nbsp;&nbsp;&nbsp; *2025–Present*
+- **Core Representative**, Postdoc/ARS Hardship Support Fund, Columbia University &nbsp;&nbsp;&nbsp; *2025–Present*
 
-**President**, AAAR Student Chapter, Carnegie Mellon University &nbsp;&nbsp;&nbsp; *2023–2024*
+- **President**, AAAR Student Chapter, Carnegie Mellon University &nbsp;&nbsp;&nbsp; *2023–2024*
 
-**Coordinator**, Center for Atmospheric Particle Studies Seminar, Carnegie Mellon University &nbsp;&nbsp;&nbsp; *2022–2023*
+- **Coordinator**, Center for Atmospheric Particle Studies Seminar, Carnegie Mellon University &nbsp;&nbsp;&nbsp; *2022–2023*
 
-**Core Committee Member**, CAPS Laboratory, Carnegie Mellon University &nbsp;&nbsp;&nbsp; *2021–2022*
+- **Core Committee Member**, CAPS Laboratory, Carnegie Mellon University &nbsp;&nbsp;&nbsp; *2021–2022*
 
-**Reviewer** &nbsp;&nbsp;&nbsp; *2023–Present*
-- Geoscientific Model Development
-- Environmental Science & Technology Air
-- Environment International
-- Scientific Reports
-- Environmental Science and Pollution Research
+- **Reviewer** &nbsp;&nbsp;&nbsp; *2023–Present*
+   - Geoscientific Model Development
+   - Environmental Science & Technology Air
+   - Environment International
+   - Scientific Reports
+   - Environmental Science and Pollution Research
   
 # 📸 Events
 
