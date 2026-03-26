@@ -249,9 +249,9 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
    - Physics I & II, Calculus, Differential Equations.
 
 - **Student Mentoring**
-  *Undergraduate Research Mentor*
-   - Columbia University: 2 Students (2025 - Present)
-   - CMU: 5 Students (2022 - 2024)
+  - *Undergraduate Research Mentor*
+    - Columbia University: 2 Students (2025 - Present)
+    - CMU: 5 Students (2022 - 2024)
 <!--
 #- Polina Goldberg, Data Science, Columbia University Summer 2025–Present
 #- Elsevar Zeynalov, Data Science, Columbia University Summer 2025
@@ -262,7 +262,7 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
 #- Max Labovitz, Mechanical Engineering, CMU Summer 2022
 -->
 
- *Graduate Research Mentor*
+ - *Graduate Research Mentor*
    - Columbia University: 1 Student (2025)
    - CMU: 2 Students (2023 - Present)
 <!--
