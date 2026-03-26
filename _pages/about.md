@@ -50,10 +50,10 @@ I am broadly interested in the application of image processing and machine learn
 
 # 🎓 Education
 
-- **Ph.D.**, Mechanical Engineering, Carnegie Mellon University, Pittsburgh, USA &nbsp;&nbsp;&nbsp; (2024)
-- **M.Phil.**, Environmental Science, Policy and Management, Hong Kong University of Science and Technology &nbsp;&nbsp;&nbsp; (2020)
-- **M.Sc.**, Environmental Engineering and Management, Hong Kong University of Science and Technology &nbsp;&nbsp;&nbsp; (2017)
-- **B.Tech.**, Civil Engineering, Indian Institute of Technology Delhi, New Delhi, India &nbsp;&nbsp;&nbsp; (2015)
+- **Ph.D.**, Mechanical Engineering, Carnegie Mellon University, Pittsburgh (2024)
+- **M.Phil.**, Environmental Science, Policy and Management, Hong Kong University of Science and Technology (2020)
+- **M.Sc.**, Environmental Engineering and Management, Hong Kong University of Science and Technology (2017)
+- **B.Tech.**, Civil Engineering, Indian Institute of Technology Delhi, New Delhi, India (2015)
 
 # 📝 Publications
 
@@ -75,10 +75,10 @@ This dataset provides daily estimates of surface PM<sub>2.5</sub> concentrations
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review · Scientific Reports</div><img src='images/2025_CongestionPricinginNYC.png' alt="NYC Congestion Pricing" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review · ES&T Letters</div><img src='images/2025_CongestionPricinginNYC.png' alt="NYC Congestion Pricing" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*Variable Short-Term Air Quality Impacts of New York City's Congestion Pricing Policy*
+*Assessing Causality in PM<sub>2.5</sub> and NO<sub>2</sub> Changes One Year After New York City’s Congestion Pricing Policy*
 
 Polina M. Goldberg, **Abhishek Anand**, Daniel Westervelt\*
 
