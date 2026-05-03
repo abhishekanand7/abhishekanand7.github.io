@@ -23,6 +23,7 @@ I earned my Ph.D. in Mechanical Engineering from Carnegie Mellon University, whe
 
 I hold an M.Phil. and M.Sc. from the Hong Kong University of Science and Technology and a B.Tech. in Civil Engineering from the Indian Institute of Technology Delhi.
 
+<span class='anchor' id='news'></span>
 # 🔥 News
 
 <style>
