@@ -24,7 +24,7 @@ I earned my Ph.D. in Mechanical Engineering from Carnegie Mellon University, whe
 I hold an M.Phil. and M.Sc. from the Hong Kong University of Science and Technology and a B.Tech. in Civil Engineering from the Indian Institute of Technology Delhi.
 
 <span class='anchor' id='news'></span>
-# 🔥 News
+# News 
 
 <style>
   .scrollable {
@@ -49,14 +49,14 @@ I hold an M.Phil. and M.Sc. from the Hong Kong University of Science and Technol
 </div>
 
 <span class='anchor' id='research'></span>
-# 🔬 Research Interests
+# Research Interests
 
 My research interest lies in the application of image processing and machine learning for building geospatial models to derive air pollutant concentrations using satellite remote sensing and reanalysis datasets. I am further interested in leveraging these datasets to assess health impacts and associated socioeconomic disparities in air pollution exposure.
 
 <!-- <img src="images/ResearchInterests.png" alt="Research Interests" style="width:100%; height:auto; margin-top:15px; border-radius:6px;"> -->
 
 <span class='anchor' id='education'></span>
-# 🎓 Education
+# Education
 
 - **Ph.D.**, Mechanical Engineering, Carnegie Mellon University, Pittsburgh (2024)
 - **M.Phil.**, Environmental Science, Policy and Management, Hong Kong University of Science and Technology (2020)
@@ -65,7 +65,7 @@ My research interest lies in the application of image processing and machine lea
 
 
 <span class='anchor' id='publications'></span>
-# 📝 Publications
+# Publications
 
 <p style="margin-top:5px; margin-bottom:15px; font-size: 14px; color: #555;"><em>* represents corresponding author</em></p>
 
@@ -206,7 +206,7 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
 </div>
 
 <span class='anchor' id='honors'></span>
-# 🏆 Honors and Awards
+# Honors and Awards
 
 - **Winner**, Hackathon on Applying Machine Learning for Subseasonal-to-Seasonal Climate Predictions, LEAP, Columbia University (2025)
 - **Travel Grant**, American Association for Aerosol Research (AAAR) Conference (2023)
@@ -223,7 +223,7 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
 - **Ministry of Human Resources Development Scholarship**, IIT Delhi (tuition for 4 years of undergraduate studies) (2011–2015)
 
 <span class='anchor' id='talks'></span>
-# 🎤 Invited Talks
+# Invited Talks
 
 - **Kintampo Health Research Center**, Kintampo, Ghana (January 2026)
   - Gridded Africa Surface Pollution Dataset (GRASP): Two Decades of Satellite-Derived Daily High-Resolution PM<sub>2.5</sub> Measurements in Ghana.
@@ -250,7 +250,7 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
   - Low-cost methods for measurement of PM<sub>2.5</sub> composition at African cities by exploiting existing Beta Attenuation Monitors.
 
 <span class='anchor' id='teaching'></span>
-# 🏫 Teaching
+# Teaching & Mentorship
 
 - **Guest Lecture — Computing and Research Methods for Climate Data Science**, Columbia University (February 2026)
    - Introduced major climate datasets, tools to work with them, data structures, and research applications.
@@ -294,7 +294,7 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
 -->
 
 <span class='anchor' id='service'></span>
-# 🤝 Service
+# Academic Service
 
 - **Member**, AGU Atmospheric Science Section Early Career Committee (2026-2027)
 
@@ -320,7 +320,7 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
    - Environmental Science and Pollution Research
 
 <span class='anchor' id='events'></span>
-# 📸 Events
+# Events
 
 <p style="margin-top: 10px;">
   <strong>December 2025</strong> — Presented research in the NASA Health and Air Quality (HAQ) session at <strong>AGU 2025</strong>, New Orleans, Louisiana.<br>
