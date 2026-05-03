@@ -21,7 +21,7 @@ I am a Postdoctoral Research Scientist in the [Westervelt Aerosol Group](https:/
 
 I earned my Ph.D. in Mechanical Engineering from Carnegie Mellon University, where I worked with [Prof. Albert Presto](https://www.meche.engineering.cmu.edu/directory/bios/presto-albert.html) on developing low-cost techniques to measure atmospheric particulate matter and identifying emission sources from low-cost sensor networks. I also built a deep learning forecast model for PM<sub>2.5</sub> over Pittsburgh using features from NASA's GEOS-CF model and a spatially deployed low-cost sensor network.
 
-I hold an M.Phil. and M.Sc. from the Hong Kong University of Science and Technology and a B.Tech. in Civil Engineering from the Indian Institute of Technology Delhi.
+I hold an M.Phil. and an M.Sc. from the Hong Kong University of Science and Technology and a B.Tech. in Civil Engineering from the Indian Institute of Technology Delhi.
 
 <span class='anchor' id='news'></span>
 # News 
