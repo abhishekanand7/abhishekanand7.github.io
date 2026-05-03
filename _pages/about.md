@@ -48,12 +48,14 @@ I hold an M.Phil. and M.Sc. from the Hong Kong University of Science and Technol
   </ul>
 </div>
 
+<span class='anchor' id='research'></span>
 # 🔬 Research Interests
 
 My research interest lies in the application of image processing and machine learning for building geospatial models to derive air pollutant concentrations using satellite remote sensing and reanalysis datasets. I am further interested in leveraging these datasets to assess health impacts and associated socioeconomic disparities in air pollution exposure.
 
 <!-- <img src="images/ResearchInterests.png" alt="Research Interests" style="width:100%; height:auto; margin-top:15px; border-radius:6px;"> -->
 
+<span class='anchor' id='education'></span>
 # 🎓 Education
 
 - **Ph.D.**, Mechanical Engineering, Carnegie Mellon University, Pittsburgh (2024)
@@ -61,6 +63,8 @@ My research interest lies in the application of image processing and machine lea
 - **M.Sc.**, Environmental Engineering and Management, Hong Kong University of Science and Technology (2017)
 - **B.Tech.**, Civil Engineering, Indian Institute of Technology Delhi, New Delhi, India (2015)
 
+
+<span class='anchor' id='publications'></span>
 # 📝 Publications
 
 <p style="margin-top:5px; margin-bottom:15px; font-size: 14px; color: #555;"><em>* represents corresponding author</em></p>
@@ -201,6 +205,7 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
 </div>
 </div>
 
+<span class='anchor' id='honors'></span>
 # 🏆 Honors and Awards
 
 - **Winner**, Hackathon on Applying Machine Learning for Subseasonal-to-Seasonal Climate Predictions, LEAP, Columbia University (2025)
@@ -217,6 +222,7 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
 - **Entrance Scholarship**, School of Engineering, HKUST (2016)
 - **Ministry of Human Resources Development Scholarship**, IIT Delhi (tuition for 4 years of undergraduate studies) (2011–2015)
 
+<span class='anchor' id='talks'></span>
 # 🎤 Invited Talks
 
 - **Kintampo Health Research Center**, Kintampo, Ghana (January 2026)
@@ -243,6 +249,7 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
 - **Air Sensors International Conference**, Riverside, CA (May 2024)
   - Low-cost methods for measurement of PM<sub>2.5</sub> composition at African cities by exploiting existing Beta Attenuation Monitors.
 
+<span class='anchor' id='teaching'></span>
 # 🏫 Teaching
 
 - **Guest Lecture — Computing and Research Methods for Climate Data Science**, Columbia University (February 2026)
@@ -286,6 +293,7 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
 #- Ria Sharma, Master's student, Mechanical Engineering, CMU Fall 2023
 -->
 
+<span class='anchor' id='service'></span>
 # 🤝 Service
 
 - **Member**, AGU Atmospheric Science Section Early Career Committee (2026-2027)
@@ -310,7 +318,8 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
    - Environment International
    - Scientific Reports
    - Environmental Science and Pollution Research
-  
+
+<span class='anchor' id='events'></span>
 # 📸 Events
 
 <p style="margin-top: 10px;">
