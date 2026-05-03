@@ -35,7 +35,7 @@ I hold an M.Phil. and M.Sc. from the Hong Kong University of Science and Technol
 
 <div class="scrollable">
   <ul>
-    <li><strong>2026.04</strong>: Presented in the 2026 <strong>HEI</strong> Annual Conference in Chicago. </li>
+    <li><strong>2026.04</strong>: Presented at the 2026 <strong>HEI</strong> Annual Conference in Chicago. </li>
     <li><strong>2026.03</strong>: Invited to serve on the AGU Atmospheric Science Section Early Career Committee.</li>
     <li><strong>2026.02</strong>: Selected for Jane Warren Award to present in the 2026 <strong>Health Effects Institute</strong> Annual Conference.</li>
     <li><strong>2026.01</strong>: Visited Ghana to conduct in-person workshops on geospatial datasets and satellite-remote sensing at Ghana EPA and Kintampo Health Research Center.</li>
