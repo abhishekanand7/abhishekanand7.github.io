@@ -25,7 +25,7 @@ main:
     url: "#teaching"
 
   - title: "Service"
-    url: "/#service"
+    url: "#service"
 
   - title: "Events"
-    url: "/#events"
+    url: "#events"
