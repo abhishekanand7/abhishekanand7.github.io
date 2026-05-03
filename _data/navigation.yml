@@ -1,31 +1,31 @@
 # main links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/#about"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Research"
-    url: "/#-research-interests"
+    url: "/#research"
 
   - title: "Education"
-    url: "/#-education"
+    url: "/#education"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Honors & Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/#talks"
 
   - title: "Teaching"
-    url: "/#-teaching"
+    url: "/#teaching"
 
   - title: "Service"
-    url: "/#-service"
+    url: "/#service"
 
   - title: "Events"
-    url: "/#-events"
+    url: "/#events"
