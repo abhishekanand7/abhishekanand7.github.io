@@ -1,8 +1,8 @@
 # Site Settings
 title                    : "Abhishek Anand"
 description              : "<i>Postdoc Researcher at Columbia University</i>"
-repository               : "abhishekanand7/website-v2"
-baseurl                  : "/website-v2"
+repository               : "abhishekanand7/abhishekanand7.github.io"
+baseurl                  : ""
 google_scholar_stats_use_cdn : true
 
 # google analytics
