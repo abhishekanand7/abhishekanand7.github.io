@@ -35,7 +35,7 @@ I hold an M.Phil. and an M.Sc. from the Hong Kong University of Science and Tech
 
 <div class="scrollable">
   <ul>
-    <li><strong>2026.05</strong>: Presented at the AeroCenter-CPC seminar at <strong>NASA Goddard Space Flight Center</strong>. </li>
+    <li><strong>2026.05</strong>: Gave a talk at the AeroCenter-CPC seminar at <strong>NASA Goddard Space Flight Center</strong>, Greenbelt, MD. </li>
     <li><strong>2026.04</strong>: Presented at the 2026 <strong>HEI</strong> Annual Conference in Chicago. </li>
     <li><strong>2026.03</strong>: Invited to serve on the AGU Atmospheric Science Section Early Career Committee.</li>
     <li><strong>2026.02</strong>: Selected for Jane Warren Award to present in the 2026 <strong>Health Effects Institute</strong> Annual Conference.</li>
