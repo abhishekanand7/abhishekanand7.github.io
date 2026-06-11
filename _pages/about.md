@@ -35,7 +35,7 @@ I hold an M.Phil. and an M.Sc. from the Hong Kong University of Science and Tech
 
 <div class="scrollable">
   <ul>
-    <li><strong>2026.05</strong>: Attended as a scientist mentor in the final Scientist-in-Residence (SiR) Student Showcase organized by the New York Academy of Sciences.</li>
+    <li><strong>2026.05</strong>: Attended as a scientist mentor in the final Scientist-in-Residence (SiR) Student Showcase organized by the <strong>New York Academy of Sciences</strong>.</li>
     <li><strong>2026.05</strong>: Gave a talk at the AeroCenter-CPC seminar at <strong>NASA Goddard Space Flight Center</strong>, Greenbelt, MD.</li>
     <li><strong>2026.04</strong>: Presented at the 2026 <strong>HEI</strong> Annual Conference in Chicago. </li>
     <li><strong>2026.04</strong>: Gave a talk at the 2026 CLIMATE & HEALTH RESEARCH WEBINAR SERIES organized by the Climate and Health Evaluation for Adaptive Resilience (CLEAR) cohort.</li>
