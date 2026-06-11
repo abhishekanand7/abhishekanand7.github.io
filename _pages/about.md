@@ -35,12 +35,15 @@ I hold an M.Phil. and an M.Sc. from the Hong Kong University of Science and Tech
 
 <div class="scrollable">
   <ul>
-    <li><strong>2026.05</strong>: Gave a talk at the AeroCenter-CPC seminar at <strong>NASA Goddard Space Flight Center</strong>, Greenbelt, MD. </li>
+    <li><strong>2026.05</strong>: Attended as a scientist mentor in the final Scientist-in-Residence (SiR) Student Showcase organized by the New York Academy of Sciences.</li>
+    <li><strong>2026.05</strong>: Gave a talk at the AeroCenter-CPC seminar at <strong>NASA Goddard Space Flight Center</strong>, Greenbelt, MD.</li>
     <li><strong>2026.04</strong>: Presented at the 2026 <strong>HEI</strong> Annual Conference in Chicago. </li>
+    <li><strong>2026.04</strong>: Gave a talk at the 2026 CLIMATE & HEALTH RESEARCH WEBINAR SERIES organized by the Climate and Health Evaluation for Adaptive Resilience (CLEAR) cohort.</li>
     <li><strong>2026.03</strong>: Invited to serve on the AGU Atmospheric Science Section Early Career Committee.</li>
     <li><strong>2026.02</strong>: Selected for Jane Warren Award to present in the 2026 <strong>Health Effects Institute</strong> Annual Conference.</li>
     <li><strong>2026.01</strong>: Visited Ghana to conduct in-person workshops on geospatial datasets and satellite-remote sensing at Ghana EPA and Kintampo Health Research Center.</li>
     <li><strong>2025.12</strong>: Presented research in the NASA Health and Air Quality (HAQ) session at <strong>AGU 2025</strong> in New Orleans, Louisiana.</li>
+    <li><strong>2025.09</strong>: Selected to serve as a Scientist-in-Residence (SiR) mentor through the New York Academy of Sciences.</li>
     <li><strong>2025.06</strong>: Presented at the <a href="https://www.spartan-network.org/2025">CAMS-Net and SPARTAN meeting</a> hosted at Washington University in St. Louis.</li>
     <li><strong>2025.05</strong>: Attended the <a href="https://cimes.princeton.edu/princeton-university-geophysical-fluid-dynamics-laboratory-global-km-scale-hackathon-0">WCRP Global km-Scale Hackathon</a> at GFDL, Princeton University.</li>
     <li><strong>2025.01</strong>: Team El Ninos won <strong>1st place</strong> at the LEAP Hackathon "Harnessing Machine Learning to Improve Subseasonal-to-Seasonal Climate Predictions" at Columbia University.</li>
