@@ -78,7 +78,7 @@ My research interest lies in the application of image processing and machine lea
 
 ## 2026
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review · AMT</div><img src='images/2026_GRASP_Graphical Abstract.png' alt="GRASP Ghana PM2.5" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to · AMT</div><img src='images/2026_GRASP_Graphical Abstract.png' alt="GRASP Ghana PM2.5" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Two decades of kilometer-scale daily PM<sub>2.5</sub> from satellite observations and machine learning reveal geographically diverging exposure in Ghana*
@@ -93,16 +93,19 @@ Using satellite observations, surface monitoring data, and machine learning, we 
 </div>
 
 
-<div markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to · Science</div><img src='images/2026_Biomass contribution to OA.png' alt="Biomass contribution to OA" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 
 *Observational constraints uncover the extensive contributions of biomass burning to organic particulate matter*
 
 Mitchell J. Rogers, Taekyu Joo, ..., **Abhishek Anand**, ..., Drew R. Gentner\*
 
-[**Preprint on ChemRxiv**](https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15004123/v1)
+[**Preprint available on ChemRxiv**](https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15004123/v1)
 
 Combining observational datasets with atmospheric analysis, the study quantifies the substantial contribution of biomass burning emissions to organic particulate matter and demonstrates the importance of biomass combustion as a dominant source of particulate pollution across affected regions.
 
+</div>
 </div>
 
 
