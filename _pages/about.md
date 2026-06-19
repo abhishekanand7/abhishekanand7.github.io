@@ -78,8 +78,11 @@ My research interest lies in the application of image processing and machine lea
 
 ## 2026
 
+<!--
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
+-->
+<div markdown="1">
 
 *Two decades of kilometer-scale daily PM<sub>2.5</sub> from satellite observations and machine learning reveal geographically diverging exposure in Ghana*
 
@@ -92,8 +95,11 @@ Using satellite observations, surface monitoring data, and machine learning, we 
 </div>
 </div>
 
+<!--
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
+-->
+<div markdown="1">
 
 *Observational constraints uncover the extensive contributions of biomass burning to organic particulate matter*
 
