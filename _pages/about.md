@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Postdoctoral Research Scientist in the [Westervelt Aerosol Group](https://aerosol.ldeo.columbia.edu) at the Lamont-Doherty Earth Observatory, Columbia University. My research focuses on building machine/deep learning models to estimate air pollutants using satellite-derived features and weather reanalysis parameters, validated with ground-level sensors across sub-Saharan Africa. I further leverage these datasets to investigate health impacts of air pollution to support effective local policymaking.
+I am a Postdoctoral Research Scientist in [Westervelt Aerosol Group](https://aerosol.ldeo.columbia.edu) at the Lamont-Doherty Earth Observatory, Columbia University. My research focuses on building machine/deep learning models to estimate air pollutants using satellite-derived features and weather reanalysis parameters, validated with ground-level sensors across sub-Saharan Africa. I further leverage these datasets to investigate health impacts of air pollution to support effective local policymaking.
 
 I earned my Ph.D. in Mechanical Engineering from Carnegie Mellon University, where I worked with [Prof. Albert Presto](https://www.meche.engineering.cmu.edu/directory/bios/presto-albert.html) on developing low-cost techniques to measure atmospheric particulate matter and identifying emission sources from low-cost sensor networks. I also built a deep learning forecast model for PM<sub>2.5</sub> over Pittsburgh using features from NASA's GEOS-CF model and a spatially deployed low-cost sensor network.
 
