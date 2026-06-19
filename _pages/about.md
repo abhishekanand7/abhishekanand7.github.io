@@ -78,16 +78,18 @@ My research interest lies in the application of image processing and machine lea
 
 ## 2026
 
-<div markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review · AMT</div><img src='images/2026_GRASP_Graphical Abstract.png' alt="GRASP Ghana PM2.5" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 *Two decades of kilometer-scale daily PM<sub>2.5</sub> from satellite observations and machine learning reveal geographically diverging exposure in Ghana*
 
 **Abhishek Anand**\*, Joe A. Amooli, ..., Daniel Westervelt
 
-[**Preprint on EarthArXiv**](https://doi.org/10.31223/X5KR3D)
+[**Preprint available on EarthArXiv**](https://doi.org/10.31223/X5KR3D)
 
 Using satellite observations, surface monitoring data, and machine learning, we develop a 1 km × 1 km daily PM<sub>2.5</sub> dataset for Ghana spanning 2005–2025. We characterize long-term spatial and temporal trends in air pollution exposure and identify substantial geographic disparities in PM<sub>2.5</sub> burden across the country.
 
+</div>
 </div>
 
 
