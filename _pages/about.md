@@ -97,9 +97,9 @@ This dataset provides daily estimates of surface PM<sub>2.5</sub> concentrations
 
 *Assessing Causality in PM<sub>2.5</sub> and NO<sub>2</sub> Changes One Year After New York City’s Congestion Pricing Policy*
 
-Polina M. Goldberg, **Abhishek Anand**, Daniel Westervelt\*
+Polina M. Goldberg, **Abhishek Anand**, Daniel Goldberg, Daniel Westervelt\*
 
-[**Preprint**](https://www.researchsquare.com/article/rs-8158429/v1)
+[**Preprint on EarthArXiv**](https://doi.org/10.31223/X5SJ4K)
 
 Using a difference-in-differences analysis, we assess the short-term impact of NYC's Central Business District Tolling Program (CBDTP) on PM<sub>2.5</sub> and NO<sub>2</sub> across all five boroughs using NYCCAS monitors and satellite observations.
 
