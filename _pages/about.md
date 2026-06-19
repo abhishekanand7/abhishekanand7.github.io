@@ -78,10 +78,6 @@ My research interest lies in the application of image processing and machine lea
 
 ## 2026
 
-<!--
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
--->
 <div markdown="1">
 
 *Two decades of kilometer-scale daily PM<sub>2.5</sub> from satellite observations and machine learning reveal geographically diverging exposure in Ghana*
@@ -93,24 +89,20 @@ My research interest lies in the application of image processing and machine lea
 Using satellite observations, surface monitoring data, and machine learning, we develop a 1 km × 1 km daily PM<sub>2.5</sub> dataset for Ghana spanning 2005–2025. We characterize long-term spatial and temporal trends in air pollution exposure and identify substantial geographic disparities in PM<sub>2.5</sub> burden across the country.
 
 </div>
-</div>
 
-<!--
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
--->
+
 <div markdown="1">
 
 *Observational constraints uncover the extensive contributions of biomass burning to organic particulate matter*
 
-Polina M. Goldberg, **Abhishek Anand**, Daniel Goldberg, Daniel Westervelt\*
+Mitchell J. Rogers, Taekyu Joo, ..., **Abhishek Anand**, ..., Drew R. Gentner\*
 
 [**Preprint on ChemRxiv**](https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15004123/v1)
 
-Combining observational datasets with atmospheric analysis, the study quantifies the substantial contribution of biomass burning emissions to organic particulate matter and demonstrate the importance of biomass combustion as a dominant source of particulate pollution across affected regions.
+Combining observational datasets with atmospheric analysis, the study quantifies the substantial contribution of biomass burning emissions to organic particulate matter and demonstrates the importance of biomass combustion as a dominant source of particulate pollution across affected regions.
 
 </div>
-</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dataset · Zenodo</div><img src='images/Gridded_PM25_Ghana_2025.png' alt="Gridded PM2.5 Ghana" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
