@@ -367,9 +367,15 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
 
 <p style="margin-top: 10px;">
   <strong>May 2026</strong> — Gave an invited seminar at <strong>NASA Goddard Space Flight Center (GSFC)</strong>, Greenbelt, Maryland, on the development of high-resolution satellite-derived PM<sub>2.5</sub> datasets and their applications for air quality and health research in Africa.<br>
+
   <img src="images/Event_Images/2026_May_NASA GSFC visit.JPG"
-     alt="NASA GSFC talk"
-     style="width:50%; height:auto; margin:12px auto 0 auto; display:block; border-radius:6px;">
+       alt="NASA GSFC talk"
+       style="width:50%; height:auto; margin:12px auto 0 auto; display:block; border-radius:6px;">
+
+  <span style="display:block; text-align:center; margin-top:8px;">
+    <em>Standing with the Nancy Grace Roman Space Telescope at NASA Goddard Space Flight Center.</em>
+  </span>
+</p>
 
 
 <p style="margin-top: 10px;">
