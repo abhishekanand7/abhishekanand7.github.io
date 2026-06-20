@@ -265,29 +265,17 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
 <span class='anchor' id='talks'></span>
 # Invited Talks
 
+- **NASA Goddard Space Flight Center (GSFC)**, Greenbelt, MD (May 2026)
+- **Health Effects Institute (HEI) Annual Conference**, Chicago, IL (April 2026)
+- **Climate and Health Evaluation for Adaptive Resilience (CLEAR) led by Columbia University**, New York City, USA (April 2026)
 - **Kintampo Health Research Center**, Kintampo, Ghana (January 2026)
-  - Gridded Africa Surface Pollution Dataset (GRASP): Two Decades of Satellite-Derived Daily High-Resolution PM<sub>2.5</sub> Measurements in Ghana.
-
 - **Environmental Protection Authority**, Accra, Ghana (January 2026)
-  - Gridded Africa Surface Pollution Dataset (GRASP): Two Decades of Satellite-Derived Daily High-Resolution PM<sub>2.5</sub> Measurements in Ghana.
-
 - **GRAPHS Manuscript Series**, Columbia University, NY (December 2025)
-  - Mapping Two Decades of Daily High-Resolution PM<sub>2.5</sub> Data in Ghana Using Machine Learning.
-
 - **Solutions for Pollution Seminar, Geochemistry Division**, Columbia University, NY (October 2025)
-  - Atmospheric Black Carbon Measurements by Applying Image Processing Method on Filter Tapes.
-
 - **Department of Civil Engineering**, University of Illinois Urbana-Champaign, IL (October 2025)
-  - Leveraging Satellite Measurements, Surface Monitors, and Machine Learning for Generating 20 Years of High-Resolution Daily PM<sub>2.5</sub> in Ghana.
-
 - **SPARTAN & CAMS-Net Joint Meeting**, Washington University in St. Louis, MO (June 2025)
-  - Two Decades of High-Resolution Daily PM<sub>2.5</sub> in Ghana: A Machine Learning Approach.
-
 - **Lamont 75th Mini-Symposium: The Data Driven Discovery**, Columbia University, NY (May 2025)
-  - Leveraging Satellite Measurements to Build Machine Learning Models for Estimating 20 Years of High-Resolution Gridded PM<sub>2.5</sub> for Ghana.
-
 - **Air Sensors International Conference**, Riverside, CA (May 2024)
-  - Low-cost methods for measurement of PM<sub>2.5</sub> composition at African cities by exploiting existing Beta Attenuation Monitors.
 
 <span class='anchor' id='teaching'></span>
 # Teaching & Mentorship
