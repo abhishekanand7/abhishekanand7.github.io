@@ -360,7 +360,27 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
    - Environmental Science and Pollution Research
 
 <span class='anchor' id='events'></span>
+
+
+
 # Events
+
+<style>
+.carousel-container{
+  width:85%;
+  height:450px;
+  position:relative;
+  overflow:hidden;
+  border-radius:6px;
+}
+.carousel-container img{
+  position:absolute;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+}
+</style>
+
 
 <p style="margin-top: 10px;">
   <strong>May 2026</strong> — Participated as a Scientist in the <strong>New York Academy of Sciences (NYAS) Scientists in Residence (SiR) Program 2025–2026</strong>, mentoring high school students in scientific research and presenting at the program's annual showcase event.<br>
@@ -368,31 +388,21 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
 </p>
 
 <p style="margin-top: 10px;">
-  <strong>January 2026</strong> — Ghana workshop at EPA and KHRC<br>
+  <strong>January 2026</strong> — Ghana workshop at EPA and KHRC. Conducted training sessions on satellite-based air quality applications and environmental health research in Ghana.<br>
   <img src="images/Event_Images/AGU25_HAQ_Poster_All.jpg" alt="AGU 2025" style="width:85%; height:auto; margin-top:12px; border-radius:6px;">
 </p>
 
 
-
-<p style="margin-top: 10px;">
+<p style="margin-top:10px;">
   <strong>January 2026</strong> — Ghana workshop at EPA and KHRC. Conducted training sessions on satellite-based air quality applications and environmental health research in Ghana.
 </p>
 
-<div class="carousel">
-  <img class="slide" src="images/Event_Images/2026_January_Ghana_EPA.jpeg" style="width:85%; border-radius:6px;">
-  <img class="slide" src="images/Event_Images/2026_January_Ghana_KHRC.jpg" style="width:85%; border-radius:6px; display:none;">
+<div class="carousel-container">
+  <img src="images/Event_Images/2026_January_Ghana_EPA.jpeg">
+  <img src="images/Event_Images/2026_January_Ghana_KHRC.jpg">
 </div>
 
-<script>
-let current = 0;
-const slides = document.querySelectorAll('.slide');
 
-setInterval(() => {
-  slides[current].style.display = 'none';
-  current = (current + 1) % slides.length;
-  slides[current].style.display = 'block';
-}, 3000);
-</script>
 
 
 
