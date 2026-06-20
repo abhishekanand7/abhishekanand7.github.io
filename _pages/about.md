@@ -366,6 +366,12 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
 # Events
 
 <p style="margin-top: 10px;">
+  <strong>May 2026</strong> — Gave an invited seminar at <strong>NASA Goddard Space Flight Center (GSFC)</strong>, Greenbelt, Maryland, on the development of high-resolution satellite-derived PM<sub>2.5</sub> datasets and their applications for air quality and health research in Africa.<br>
+  <img src="images/Event_Images/2026_May_NASA GSFC visit.JPG" alt="NASA GSFC talk" style="width:85%; height:auto; margin-top:12px; border-radius:6px;">
+</p>
+
+
+<p style="margin-top: 10px;">
   <strong>May 2026</strong> — Participated as a Scientist in the <strong>New York Academy of Sciences (NYAS) Scientists in Residence (SiR) Program 2025–2026</strong>, mentoring high school students in scientific research and presenting at the program's annual showcase event.<br>
   <img src="images/Event_Images/2026_May_SiRShowcase.JPG" alt="NYAS SiR showcase" style="width:85%; height:auto; margin-top:12px; border-radius:6px;">
 </p>
