@@ -379,8 +379,8 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
 </p>
 
 <div class="carousel">
-  <img class="slide" src="images/Event_Images/Ghana_Workshop_1.jpg" style="width:85%; border-radius:6px;">
-  <img class="slide" src="images/Event_Images/Ghana_Workshop_2.jpg" style="width:85%; border-radius:6px; display:none;">
+  <img class="slide" src="images/Event_Images/2026_January_Ghana_EPA.jpeg" style="width:85%; border-radius:6px;">
+  <img class="slide" src="images/Event_Images/2026_January_Ghana_KHRC.jpg" style="width:85%; border-radius:6px; display:none;">
 </div>
 
 <script>
