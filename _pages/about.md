@@ -367,7 +367,6 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
 
 <p style="margin-top: 10px;">
   <strong>May 2026</strong> — Gave an invited seminar at <strong>NASA Goddard Space Flight Center (GSFC)</strong>, Greenbelt, Maryland, on the development of high-resolution satellite-derived PM<sub>2.5</sub> datasets and their applications for air quality and health research in Africa.<br>
-
   <img src="images/Event_Images/2026_May_NASA GSFC visit.JPG"
        alt="NASA GSFC talk"
        style="width:50%; height:auto; margin:12px auto 0 auto; display:block; border-radius:6px;">
@@ -376,13 +375,13 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
     <em>Standing with the Nancy Grace Roman Space Telescope at NASA Goddard Space Flight Center.</em>
   </span>
 </p>
-
+<hr style="margin:40px 0; border:none; border-top:1px solid #ddd;">
 
 <p style="margin-top: 10px;">
   <strong>May 2026</strong> — Participated as a Scientist in the <strong>New York Academy of Sciences (NYAS) Scientists in Residence (SiR) Program 2025–2026</strong>, mentoring high school students in scientific research and presenting at the program's annual showcase event.<br>
   <img src="images/Event_Images/2026_May_SiRShowcase.JPG" alt="NYAS SiR showcase" style="width:85%; height:auto; margin-top:12px; border-radius:6px;">
 </p>
-
+<hr style="margin:40px 0; border:none; border-top:1px solid #ddd;">
 
 <p style="margin-top:10px;">
   <strong>January 2026</strong> — Ghana workshop at EPA and KHRC. Conducted training sessions on satellite-based air quality applications and environmental health research in Ghana.
@@ -394,27 +393,31 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
   <img src="images/Event_Images/2026_January_Ghana_KHRC.jpg"
        style="width:50%; border-radius:6px; object-fit:cover;">
 </div>
-
+<hr style="margin:40px 0; border:none; border-top:1px solid #ddd;">
 
 <p style="margin-top: 10px;">
   <strong>December 2025</strong> — Presented in the NASA Health and Air Quality (HAQ) session at <strong>AGU 2025</strong>, New Orleans, Louisiana.<br>
   <img src="images/Event_Images/AGU25_HAQ_Poster_All.jpg" alt="AGU 2025" style="width:85%; height:auto; margin-top:12px; border-radius:6px;">
 </p>
+<hr style="margin:40px 0; border:none; border-top:1px solid #ddd;">
 
 <p style="margin-top: 30px;">
   <strong>June 2025</strong> — Presented at the <a href="https://www.spartan-network.org/2025">CAMS-Net and SPARTAN meeting</a> at Washington University in St. Louis.<br>
   <img src="images/Event_Images/2025_Spartan_CAMSNet_WUSTL.jpg" alt="SPARTAN CAMS-Net WUSTL" style="width:85%; height:auto; margin-top:12px; border-radius:6px;">
 </p>
+<hr style="margin:40px 0; border:none; border-top:1px solid #ddd;">
 
 <p style="margin-top: 30px;">
   <strong>May 2025</strong> — Attended the <a href="https://cimes.princeton.edu/princeton-university-geophysical-fluid-dynamics-laboratory-global-km-scale-hackathon-0">WCRP Global km-Scale Hackathon</a> at GFDL, Princeton University.<br>
   <img src="images/Event_Images/GFDL_WCRP_Hackathon_May2025.jpg" alt="WCRP Hackathon GFDL" style="width:85%; height:auto; margin-top:12px; border-radius:6px;">
 </p>
+<hr style="margin:40px 0; border:none; border-top:1px solid #ddd;">
 
 <p style="margin-top: 30px;">
   <strong>January 2025</strong> — Team El Ninos won <strong>1st place</strong> at the LEAP Hackathon "Harnessing Machine Learning to Improve Subseasonal-to-Seasonal Climate Predictions" at Columbia University.<br>
   <img src="images/Event_Images/LEAP_Hackathon.png" alt="LEAP Hackathon" style="width:85%; height:auto; margin-top:12px; border-radius:6px;">
 </p>
+<hr style="margin:40px 0; border:none; border-top:1px solid #ddd;">
 
 <p style="margin-top: 30px;">
   <strong>August 2022</strong> — Awarded the prestigious <a href="https://engineering.cmu.edu/news-events/news/2023/04/12-dowd-fellows.html">Dowd Fellowship</a> by the School of Engineering at Carnegie Mellon University.<br>
