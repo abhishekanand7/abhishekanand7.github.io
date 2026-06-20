@@ -365,45 +365,22 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
 
 # Events
 
-<style>
-.carousel-container{
-  width:85%;
-  height:450px;
-  position:relative;
-  overflow:hidden;
-  border-radius:6px;
-}
-.carousel-container img{
-  position:absolute;
-  width:100%;
-  height:100%;
-  object-fit:cover;
-}
-</style>
-
-
 <p style="margin-top: 10px;">
   <strong>May 2026</strong> — Participated as a Scientist in the <strong>New York Academy of Sciences (NYAS) Scientists in Residence (SiR) Program 2025–2026</strong>, mentoring high school students in scientific research and presenting at the program's annual showcase event.<br>
   <img src="images/Event_Images/2026_May_SiRShowcase.JPG" alt="NYAS SiR showcase" style="width:85%; height:auto; margin-top:12px; border-radius:6px;">
-</p>
-
-<p style="margin-top: 10px;">
-  <strong>January 2026</strong> — Ghana workshop at EPA and KHRC. Conducted training sessions on satellite-based air quality applications and environmental health research in Ghana.<br>
-  <img src="images/Event_Images/AGU25_HAQ_Poster_All.jpg" alt="AGU 2025" style="width:85%; height:auto; margin-top:12px; border-radius:6px;">
 </p>
 
 
 <p style="margin-top:10px;">
   <strong>January 2026</strong> — Ghana workshop at EPA and KHRC. Conducted training sessions on satellite-based air quality applications and environmental health research in Ghana.
 </p>
+<div style="display:flex; gap:12px; width:85%; margin-top:12px;">
+  <img src="images/Event_Images/2026_January_Ghana_EPA.jpeg"
+       style="width:50%; border-radius:6px; object-fit:cover;">
 
-<div class="carousel-container">
-  <img src="images/Event_Images/2026_January_Ghana_EPA.jpeg">
-  <img src="images/Event_Images/2026_January_Ghana_KHRC.jpg">
+  <img src="images/Event_Images/2026_January_Ghana_KHRC.jpg"
+       style="width:50%; border-radius:6px; object-fit:cover;">
 </div>
-
-
-
 
 
 <p style="margin-top: 10px;">
