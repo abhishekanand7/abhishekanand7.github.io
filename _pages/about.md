@@ -363,7 +363,41 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
 # Events
 
 <p style="margin-top: 10px;">
-  <strong>December 2025</strong> — Presented research in the NASA Health and Air Quality (HAQ) session at <strong>AGU 2025</strong>, New Orleans, Louisiana.<br>
+  <strong>May 2026</strong> — Participated as a Scientist in the <strong>New York Academy of Sciences (NYAS) Scientists in Residence (SiR) Program 2025–2026</strong>, mentoring high school students in scientific research and presenting at the program's annual showcase event.<br>
+  <img src="images/Event_Images/2026_May_SiRShowcase.JPG" alt="NYAS SiR showcase" style="width:85%; height:auto; margin-top:12px; border-radius:6px;">
+</p>
+
+<p style="margin-top: 10px;">
+  <strong>January 2026</strong> — Ghana workshop at EPA and KHRC<br>
+  <img src="images/Event_Images/AGU25_HAQ_Poster_All.jpg" alt="AGU 2025" style="width:85%; height:auto; margin-top:12px; border-radius:6px;">
+</p>
+
+
+
+<p style="margin-top: 10px;">
+  <strong>January 2026</strong> — Ghana workshop at EPA and KHRC. Conducted training sessions on satellite-based air quality applications and environmental health research in Ghana.
+</p>
+
+<div class="carousel">
+  <img class="slide" src="images/Event_Images/Ghana_Workshop_1.jpg" style="width:85%; border-radius:6px;">
+  <img class="slide" src="images/Event_Images/Ghana_Workshop_2.jpg" style="width:85%; border-radius:6px; display:none;">
+</div>
+
+<script>
+let current = 0;
+const slides = document.querySelectorAll('.slide');
+
+setInterval(() => {
+  slides[current].style.display = 'none';
+  current = (current + 1) % slides.length;
+  slides[current].style.display = 'block';
+}, 3000);
+</script>
+
+
+
+<p style="margin-top: 10px;">
+  <strong>December 2025</strong> — Presented in the NASA Health and Air Quality (HAQ) session at <strong>AGU 2025</strong>, New Orleans, Louisiana.<br>
   <img src="images/Event_Images/AGU25_HAQ_Poster_All.jpg" alt="AGU 2025" style="width:85%; height:auto; margin-top:12px; border-radius:6px;">
 </p>
 
