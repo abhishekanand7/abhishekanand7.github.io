@@ -267,7 +267,7 @@ We propose a novel Temperature Look-Up (TLU) model for NO<sub>2</sub> gas sensor
 
 - **NASA Goddard Space Flight Center (GSFC)**, Greenbelt, MD (May 2026)
 - **Health Effects Institute (HEI) Annual Conference**, Chicago, IL (April 2026)
-- **Climate and Health Evaluation for Adaptive Resilience (CLEAR) led by Columbia University**, New York City, USA (April 2026)
+- **[Climate and Health Evaluation for Adaptive Resilience (CLEAR)](https://www.darbyjack.org/projects/3567-climate-and-health-evaluation-for-adoptive-resilience-clear)**, New York City, USA (April 2026)
 - **Kintampo Health Research Center**, Kintampo, Ghana (January 2026)
 - **Environmental Protection Authority**, Accra, Ghana (January 2026)
 - **GRAPHS Manuscript Series**, Columbia University, NY (December 2025)
