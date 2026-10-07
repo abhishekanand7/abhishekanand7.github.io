@@ -35,10 +35,12 @@ I hold an M.Phil. and an M.Sc. from the Hong Kong University of Science and Tech
 
 <div class="scrollable">
   <ul>
-    <li><strong>2026.05</strong>: Attended as a scientist mentor in the final Scientist-in-Residence (SiR) Student Showcase organized by the <strong>New York Academy of Sciences</strong>.</li>
+    <li><strong>2026.08</strong>: Workshop lead for the Climate Change Workshop at the <strong>2026 PATS MECOR Meeting</strong>, Brackenhurst, Kenya. </li>
+    <li><strong>2026.08</strong>: Served as a proposal reviewer for the <strong>NASA ECIP-ES ESDS</strong>. </li>
+    <li><strong>2026.05</strong>: Attended the student showcase for the 2025-26 Scientist-in-Residence (SiR) organized by the <strong>New York Academy of Sciences</strong> as a scientist mentor.</li>
     <li><strong>2026.05</strong>: Gave a talk at the AeroCenter-CPC seminar at <strong>NASA Goddard Space Flight Center</strong>, Greenbelt, MD.</li>
     <li><strong>2026.04</strong>: Presented at the 2026 <strong>HEI</strong> Annual Conference in Chicago. </li>
-    <li><strong>2026.04</strong>: Gave a talk at the 2026 CLIMATE & HEALTH RESEARCH WEBINAR SERIES organized by the Climate and Health Evaluation for Adaptive Resilience (CLEAR) cohort.</li>
+    <li><strong>2026.04</strong>: Gave an invited talk at the 2026 <strong>Climate & Health Research Webinar Series</strong> organized by the Climate and Health Evaluation for Adaptive Resilience (CLEAR) cohort.</li>
     <li><strong>2026.03</strong>: Invited to serve on the AGU Atmospheric Science Section Early Career Committee.</li>
     <li><strong>2026.02</strong>: Selected for <strong>Jane Warren Award</strong> to present in the 2026 <strong>Health Effects Institute</strong> Annual Conference.</li>
     <li><strong>2026.01</strong>: Visited Ghana to conduct in-person workshops on geospatial datasets and satellite-remote sensing at Ghana EPA and Kintampo Health Research Center.</li>
