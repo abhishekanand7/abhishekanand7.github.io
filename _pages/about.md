@@ -35,7 +35,7 @@ I hold an M.Phil. and an M.Sc. from the Hong Kong University of Science and Tech
 
 <div class="scrollable">
   <ul>
-    <li><strong>2026.10</strong>: <a href="https://doi.org/10.1021/acs.estlett.6c00610">Co-authored paper</a> on the effects of NYC Congestion pricing on local air quality is **published in ES&T Letters**. </li>
+    <li><strong>2026.10</strong>: <a href="https://doi.org/10.1021/acs.estlett.6c00610">Co-authored paper</a> on the effects of NYC Congestion pricing on local air quality is published in <strong>ES&T Letters</strong>strong>. </li>
     <li><strong>2026.10</strong>: Workshop lead for the Climate Change Workshop at the <strong>2026 PATS MECOR Meeting</strong>, Brackenhurst, Kenya. </li>
     <li><strong>2026.08</strong>: Served as a proposal reviewer for the <strong>NASA ECIP-ES ESDS</strong>. </li>
     <li><strong>2026.05</strong>: Attended the student showcase for the 2025-26 Scientist-in-Residence (SiR) organized by the <strong>New York Academy of Sciences</strong> as a scientist mentor.</li>
