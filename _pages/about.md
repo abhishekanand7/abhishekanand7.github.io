@@ -35,6 +35,7 @@ I hold an M.Phil. and an M.Sc. from the Hong Kong University of Science and Tech
 
 <div class="scrollable">
   <ul>
+    <li><strong>2026.10</strong>: <a href="https://doi.org/10.1021/acs.estlett.6c00610">Co-authored paper</a> on the effects of NYC Congestion pricing on local air quality is **published in ES&T Letters**. </li>
     <li><strong>2026.10</strong>: Workshop lead for the Climate Change Workshop at the <strong>2026 PATS MECOR Meeting</strong>, Brackenhurst, Kenya. </li>
     <li><strong>2026.08</strong>: Served as a proposal reviewer for the <strong>NASA ECIP-ES ESDS</strong>. </li>
     <li><strong>2026.05</strong>: Attended the student showcase for the 2025-26 Scientist-in-Residence (SiR) organized by the <strong>New York Academy of Sciences</strong> as a scientist mentor.</li>
@@ -99,7 +100,6 @@ Using satellite observations, surface monitoring data, and machine learning, we 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to Science</div><img src='images/2026_Biomass contribution to OA.png' alt="Biomass contribution to OA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
 *Observational constraints uncover the extensive contributions of biomass burning to organic particulate matter*
 
 Mitchell J. Rogers, Taekyu Joo, ..., **Abhishek Anand**, ..., Drew R. Gentner\*
@@ -110,6 +110,22 @@ Combining observational datasets with atmospheric analysis, the study quantifies
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES&T Letters</div><img src='images/2025_CongestionPricinginNYC.png' alt="NYC Congestion Pricing" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*Attributing PM<sub>2.5</sub> and NO<sub>2</sub> Changes One Year After New York City’s Congestion Pricing Policy*
+
+Polina M. Goldberg, **Abhishek Anand**, Daniel Goldberg, Daniel Westervelt\*
+
+[**Paper**](https://doi.org/10.1021/acs.estlett.6c00610)
+
+Using a difference-in-differences analysis, we assess the short-term impact of NYC's Central Business District Tolling Program (CBDTP) on PM<sub>2.5</sub> and NO<sub>2</sub> across all five boroughs using NYCCAS monitors and satellite observations.
+
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dataset · Zenodo</div><img src='images/Gridded_PM25_Ghana_2025.png' alt="Gridded PM2.5 Ghana" width="100%"></div></div>
@@ -127,20 +143,6 @@ This dataset provides daily estimates of surface PM<sub>2.5</sub> concentrations
 </div>
 
 ## 2025
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review · ES&T Letters</div><img src='images/2025_CongestionPricinginNYC.png' alt="NYC Congestion Pricing" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-*Assessing Causality in PM<sub>2.5</sub> and NO<sub>2</sub> Changes One Year After New York City’s Congestion Pricing Policy*
-
-Polina M. Goldberg, **Abhishek Anand**, Daniel Goldberg, Daniel Westervelt\*
-
-[**Preprint on EarthArXiv**](https://doi.org/10.31223/X5SJ4K)
-
-Using a difference-in-differences analysis, we assess the short-term impact of NYC's Central Business District Tolling Program (CBDTP) on PM<sub>2.5</sub> and NO<sub>2</sub> across all five boroughs using NYCCAS monitors and satellite observations.
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES&T Air · 2025</div><img src='images/2025_GriddedPM_WestAfrica.png' alt="PM2.5 West Africa" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
