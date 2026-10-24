@@ -118,7 +118,7 @@ Combining observational datasets with atmospheric analysis, the study quantifies
 
 *Nephelometer-based air sensor networks systematically underestimate PM<sub>2.5</sub> in dust-influenced West Africa*
 
-Daniel M. Westervelt, **Abhishek Anand**, ..., Nana Ama Browne Klutse\*
+Daniel M. Westervelt\*, **Abhishek Anand**, ..., Nana Ama Browne Klutse
 
 We characterize PM<sub>2.5</sub> pollution across four metropolitan areas in Ghana using a multi-year air quality monitoring network and evaluate the performance of optical particle sensors. Our findings highlight geographic and seasonal differences in pollution and show that nephelometer-based sensors can substantially underestimate particulate matter under dusty conditions.
 
