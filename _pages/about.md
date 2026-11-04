@@ -82,7 +82,7 @@ My research interest lies in the application of image processing and machine lea
 
 ## 2026
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review in AMT</div><img src='images/2026_GRASP_Graphical Abstract.png' alt="GRASP Ghana PM2.5" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMT · 2026</div><img src='images/2026_GRASP_Graphical Abstract.png' alt="GRASP Ghana PM2.5" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Two decades of kilometer-scale daily PM<sub>2.5</sub> from satellite observations and machine learning reveal geographically diverging exposure in Ghana*
@@ -113,7 +113,7 @@ Combining observational datasets with atmospheric analysis, the study quantifies
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj Clean Air</div><img src='images/2026_Nephelometer_performance_in_WestAfrica.png' alt="Nephelometer in West Africa" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj Clean Air · 2026</div><img src='images/2026_Nephelometer_performance_in_WestAfrica.png' alt="Nephelometer in West Africa" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Nephelometer-based air sensor networks systematically underestimate PM<sub>2.5</sub> in dust-influenced West Africa*
@@ -127,7 +127,7 @@ We characterize PM<sub>2.5</sub> pollution across four metropolitan areas in Gha
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES&T Letters</div><img src='images/2025_CongestionPricinginNYC.png' alt="NYC Congestion Pricing" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES&T Letters · 2026</div><img src='images/2025_CongestionPricinginNYC.png' alt="NYC Congestion Pricing" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Attributing PM<sub>2.5</sub> and NO<sub>2</sub> Changes One Year After New York City’s Congestion Pricing Policy*
