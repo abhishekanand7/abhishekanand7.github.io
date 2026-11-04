@@ -143,7 +143,7 @@ Using a difference-in-differences analysis, we assess the short-term impact of N
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dataset · Zenodo</div><img src='images/Gridded_PM25_Ghana_2025.png' alt="Gridded PM2.5 Ghana" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dataset · Zenodo · 2026</div><img src='images/Gridded_PM25_Ghana_2025.png' alt="Gridded PM2.5 Ghana" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *[Dataset] Gridded Daily PM<sub>2.5</sub> at 1 km x 1 km Resolution from 2005-2025: Ghana*
