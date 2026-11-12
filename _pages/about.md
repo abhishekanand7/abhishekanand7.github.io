@@ -35,7 +35,8 @@ I hold an M.Phil. and an M.Sc. from the Hong Kong University of Science and Tech
 
 <div class="scrollable">
   <ul>
-    <li><strong>2026.10</strong>: <a href="https://doi.org/10.1021/acs.estlett.6c00610">Co-authored paper</a> on the effects of NYC Congestion pricing on local air quality is published in <strong>ES&T Letters</strong>. </li>
+    <li><strong>2026.10</strong>: My work on generating multi-decadal spatiotemporal particulate matter using machine learning is <a href="https://doi.org/10.5194/amt-19-7231-2026">published</a> in <strong>Atmospheric Measurement Techniques</strong>! </li>
+    <li><strong>2026.10</strong>: <a href="https://doi.org/10.1021/acs.estlett.6c00610">Co-authored paper</a> on the effects of NYC Congestion pricing on local air quality published in <strong>ES&T Letters</strong>. </li>
     <li><strong>2026.10</strong>: Workshop lead for the Climate Change Workshop at the <strong>2026 PATS MECOR Meeting</strong>, Brackenhurst, Kenya. </li>
     <li><strong>2026.08</strong>: Served as a proposal reviewer for the <strong>NASA ECIP-ES ESDS</strong> panel. </li>
     <li><strong>2026.07</strong>: Gave an invited talk in the <strong>NUIUC-KYUSHU-NTU Trilateral Workshop</strong> at UIUC. </li>
