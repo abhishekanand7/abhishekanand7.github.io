@@ -89,7 +89,7 @@ My research interest lies in the application of image processing and machine lea
 
 **Abhishek Anand**\*, Joe A. Amooli, ..., Daniel Westervelt
 
-[**Paper**](https://doi.org/10.5194/amt-19-7231-2026) \|**Dataset (Zenodo)**](https://zenodo.org/records/19636051) \| [**Project Website–Columbia University**](https://grasp.ldeo.columbia.edu/documents)
+[**Paper**](https://doi.org/10.5194/amt-19-7231-2026) \| [**Dataset (Zenodo)**](https://zenodo.org/records/19636051) \| [**Project Website–Columbia University**](https://grasp.ldeo.columbia.edu/documents)
 
 Using satellite observations, surface monitoring data, and machine learning, we develop a 1 km × 1 km daily PM<sub>2.5</sub> dataset for Ghana spanning 2005–2025. We characterize long-term spatial and temporal trends in air pollution exposure and identify substantial geographic disparities in PM<sub>2.5</sub> burden across the country.
 
