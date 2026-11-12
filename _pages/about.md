@@ -36,13 +36,13 @@ I hold an M.Phil. and an M.Sc. from the Hong Kong University of Science and Tech
 <div class="scrollable">
   <ul>
     <li><strong>2026.11</strong>: My work on generating multi-decadal spatiotemporal particulate matter using machine learning is <a href="https://doi.org/10.5194/amt-19-7231-2026">published</a> in <strong>Atmospheric Measurement Techniques</strong>! </li>
-    <li><strong>2026.10</strong>: <a href="https://doi.org/10.1021/acs.estlett.6c00610">Co-authored paper</a> on the effects of NYC Congestion pricing on local air quality published in <strong>ES&T Letters</strong>. </li>
+    <li><strong>2026.10</strong>: <a href="https://doi.org/10.1021/acs.estlett.6c00610">Co-authored paper</a> on the effects of NYC Congestion pricing on local air quality published in <strong>ES&T Letters</strong>! </li>
     <li><strong>2026.10</strong>: Led a workshop for the Climate Change Workshop at the <strong>2026 PATS MECOR Meeting</strong> in Brackenhurst, Kenya. </li>
-    <li><strong>2026.08</strong>: Served as a proposal reviewer for the <strong>NASA ECIP-ES ESDS</strong> panel. </li>
+    <li><strong>2026.08</strong>: Served as a proposal reviewer for the <strong>NASA Early Career Investigator Program in Earth Science (ECIP-ES) ESDS</strong> panel. </li>
     <li><strong>2026.07</strong>: Gave an invited talk in the <strong>NUIUC-KYUSHU-NTU Trilateral Workshop</strong> at UIUC. </li>
-    <li><strong>2026.05</strong>: Attended the student showcase for the 2025-26 Scientist-in-Residence (SiR) organized by the <strong>New York Academy of Sciences</strong> as a scientist mentor.</li>
+    <li><strong>2026.05</strong>: Attended the 2025-26 Scientist-in-Residence (SiR) student project showcase organized by the <strong>New York Academy of Sciences</strong> as a scientist mentor.</li>
     <li><strong>2026.05</strong>: Gave a talk at the AeroCenter-CPC seminar at <strong>NASA Goddard Space Flight Center</strong>, Greenbelt, MD.</li>
-    <li><strong>2026.04</strong>: Presented at the 2026 <strong>HEI</strong> Annual Conference in Chicago. </li>
+    <li><strong>2026.04</strong>: Presented as a Jane Warren Awardee at the 2026 <strong>HEI</strong> Annual Conference in Chicago. </li>
     <li><strong>2026.04</strong>: Gave an invited talk at the 2026 <strong>Climate & Health Research Webinar Series</strong> organized by the Climate and Health Evaluation for Adaptive Resilience (CLEAR) cohort.</li>
     <li><strong>2026.03</strong>: Invited to serve on the AGU Atmospheric Science Section Early Career Committee.</li>
     <li><strong>2026.02</strong>: Selected for <strong>Jane Warren Award</strong> to present in the 2026 <strong>Health Effects Institute</strong> Annual Conference.</li>
@@ -105,7 +105,7 @@ Using satellite observations, surface monitoring data, and machine learning, we 
 
 Mitchell J. Rogers, Taekyu Joo, ..., **Abhishek Anand**, ..., Drew R. Gentner\*
 
-[**Preprint available on ChemRxiv**](https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15004123/v1)
+[**Preprint available**](https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15004123/v1)
 
 Combining observational datasets with atmospheric analysis, the study quantifies the substantial contribution of biomass burning emissions to organic particulate matter and demonstrates the importance of biomass combustion as a dominant source of particulate pollution across affected regions.
 
@@ -119,6 +119,8 @@ Combining observational datasets with atmospheric analysis, the study quantifies
 *Nephelometer-based air sensor networks systematically underestimate PM<sub>2.5</sub> in dust-influenced West Africa*
 
 Daniel M. Westervelt\*, **Abhishek Anand**, ..., Nana Ama Browne Klutse
+
+[**Preprint available · Manuscript accepted for publication in npj Clean Air)**](https://www.researchsquare.com/article/rs-10220825/v1)
 
 We characterize PM<sub>2.5</sub> pollution across four metropolitan areas in Ghana using a multi-year air quality monitoring network and evaluate the performance of optical particle sensors. Our findings highlight geographic and seasonal differences in pollution and show that nephelometer-based sensors can substantially underestimate particulate matter under dusty conditions.
 
