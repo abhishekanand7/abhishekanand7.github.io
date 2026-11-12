@@ -120,7 +120,7 @@ Combining observational datasets with atmospheric analysis, the study quantifies
 
 Daniel M. Westervelt\*, **Abhishek Anand**, ..., Nana Ama Browne Klutse
 
-[**Preprint available · Manuscript accepted for publication in npj Clean Air)**](https://www.researchsquare.com/article/rs-10220825/v1)
+[**Preprint available · Manuscript accepted for publication in npj Clean Air**](https://www.researchsquare.com/article/rs-10220825/v1)
 
 We characterize PM<sub>2.5</sub> pollution across four metropolitan areas in Ghana using a multi-year air quality monitoring network and evaluate the performance of optical particle sensors. Our findings highlight geographic and seasonal differences in pollution and show that nephelometer-based sensors can substantially underestimate particulate matter under dusty conditions.
 
