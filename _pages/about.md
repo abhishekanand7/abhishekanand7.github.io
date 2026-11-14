@@ -23,6 +23,14 @@ I earned my Ph.D. in Mechanical Engineering from Carnegie Mellon University, whe
 
 I hold an M.Phil. and an M.Sc. from the Hong Kong University of Science and Technology and a B.Tech. in Civil Engineering from the Indian Institute of Technology Delhi.
 
+
+<span class='anchor' id='research'></span>
+# Research Interests
+
+My research interest lies in the application of image processing and machine learning for building geospatial models to derive air pollutant concentrations using satellite remote sensing and reanalysis datasets. I am further interested in leveraging these datasets to assess health impacts and associated socioeconomic disparities in air pollution exposure.
+
+<!-- <img src="images/ResearchInterests.png" alt="Research Interests" style="width:100%; height:auto; margin-top:15px; border-radius:6px;"> -->
+
 <span class='anchor' id='news'></span>
 # News 
 
@@ -60,12 +68,6 @@ I hold an M.Phil. and an M.Sc. from the Hong Kong University of Science and Tech
   </ul>
 </div>
 
-<span class='anchor' id='research'></span>
-# Research Interests
-
-My research interest lies in the application of image processing and machine learning for building geospatial models to derive air pollutant concentrations using satellite remote sensing and reanalysis datasets. I am further interested in leveraging these datasets to assess health impacts and associated socioeconomic disparities in air pollution exposure.
-
-<!-- <img src="images/ResearchInterests.png" alt="Research Interests" style="width:100%; height:auto; margin-top:15px; border-radius:6px;"> -->
 
 <span class='anchor' id='education'></span>
 # Education
