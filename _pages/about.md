@@ -85,6 +85,21 @@ My research interest lies in the application of image processing and machine lea
 
 ## 2026
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dataset · Zenodo · 2026</div><img src='images/2026_Zenodo_GRASP_mortality.png' alt="Gridded PM2.5 mortality Ghana" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*[Dataset] Gridded PM<sub>2.5</sub>-Attributable Mortality in Ghana, 2005–2025*
+
+**Abhishek Anand\***, Joe Amooli, Daniel Westervelt
+
+[**Dataset v1 (Zenodo)**](https://zenodo.org/records/24330118) \| [**GRASP Project**](https://grasp.ldeo.columbia.edu)
+
+This dataset provides annual gridded estimates of deaths attributable to ambient PM<sub>2.5</sub> concentrations across Ghana at 1 km x 1 km resolution. The dataset contains estimates for five causes of death in adults aged 25 and older and acute lower respiratory infections in children under five for males and females.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMT · 2026</div><img src='images/2026_GRASP_Figure_1.png' alt="GRASP Ghana PM2.5" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
