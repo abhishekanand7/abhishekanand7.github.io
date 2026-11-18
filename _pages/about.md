@@ -92,7 +92,7 @@ My research interest lies in the application of image processing and machine lea
 
 **Abhishek Anand\***, Joe Amooli, Daniel Westervelt
 
-[**Dataset v1 (Zenodo)**](https://zenodo.org/records/24330118) \| [**GRASP Project**](https://grasp.ldeo.columbia.edu)
+[**Dataset v1 (Zenodo)**](https://zenodo.org/records/24330119) \| [**GRASP Project**](https://grasp.ldeo.columbia.edu)
 
 This dataset provides annual gridded estimates of deaths attributable to ambient PM<sub>2.5</sub> concentrations across Ghana at 1 km x 1 km resolution. The dataset contains estimates for five causes of death in adults aged 25 and older and acute lower respiratory infections in children under five for males and females.
 
