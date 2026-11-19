@@ -43,6 +43,7 @@ My research interest lies in the application of image processing and machine lea
 
 <div class="scrollable">
   <ul>
+    <li><strong>2026.11</strong>: Our collaborative work on evaluating low-cost optical PM sensors under dust-influenced conditions in West Africa is <a href="https://doi.org/10.1038/s44407-026-00117-x">published</a> in <strong>npj Clean Air</strong>! </li>
     <li><strong>2026.11</strong>: My work on generating multi-decadal spatiotemporal particulate matter using machine learning is <a href="https://doi.org/10.5194/amt-19-7231-2026">published</a> in <strong>Atmospheric Measurement Techniques</strong>! </li>
     <li><strong>2026.10</strong>: <a href="https://doi.org/10.1021/acs.estlett.6c00610">Co-authored paper</a> on the effects of NYC Congestion pricing on local air quality published in <strong>ES&T Letters</strong>! </li>
     <li><strong>2026.10</strong>: Led a workshop for the Climate Change Workshop at the <strong>2026 PATS MECOR Meeting</strong> in Brackenhurst, Kenya. </li>
@@ -137,7 +138,7 @@ Combining observational datasets with atmospheric analysis, the study quantifies
 
 Daniel M. Westervelt\*, **Abhishek Anand**, ..., Nana Ama Browne Klutse
 
-[**Preprint available · Manuscript accepted for publication in npj Clean Air**](https://www.researchsquare.com/article/rs-10220825/v1)
+[**Paper**](https://doi.org/10.1038/s44407-026-00117-x)
 
 We characterize PM<sub>2.5</sub> pollution across four metropolitan areas in Ghana using a multi-year air quality monitoring network and evaluate the performance of optical particle sensors. Our findings highlight geographic and seasonal differences in pollution and show that nephelometer-based sensors can substantially underestimate particulate matter under dusty conditions.
 
